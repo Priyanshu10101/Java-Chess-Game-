@@ -1,1 +1,1 @@
-Java Chess Game Application in java by Priyanshu Verma
+Chess Game Application in java by Priyanshu Verma
